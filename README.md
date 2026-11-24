@@ -26,7 +26,7 @@ to use it, just put your carret (click) anywhere inside the p you cant to target
 
 don't forget to uncheck the "convert div tags to p tags" in the field input markup toggles
 
-![markup_ptions](assets/marrkup_options.png)
+![markup_options](assets/markup_options.png)
 
 ---
 Of course, as usual, you can modify whatever you want in the plugin code change its name, je js file name, change or remove the text in the toolbar (leave empty single quotes), change or remove the tooltip (here you can simply delete the line) and so on
