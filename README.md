@@ -2,7 +2,7 @@
 
 ## Convert a “p” to a “div” in TinyMCE
 
-to install it in pw, put the js file whereever you want, e.g. /site/modules/tinymce (up to you) (the assets folder is only here to make the readme more... readable you only need the js file)
+to install it in pw, put the js file whereever you want, e.g. /site/modules/tiny (up to you) (the assets folder is only here to make the readme more... readable you only need the js file)
 
 then go to modules -> configure -> InputfieldTinyMCE
 
